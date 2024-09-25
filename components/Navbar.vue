@@ -1,0 +1,12 @@
+<template>
+  <div>
+    <v-layout>
+      <v-app-bar
+        scroll-behavior="fade-image"
+        image="https://picsum.photos/1920/1080?random"
+        absolute
+        flat
+      ></v-app-bar>
+    </v-layout>
+  </div>
+</template>
